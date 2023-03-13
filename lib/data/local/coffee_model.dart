@@ -21,7 +21,7 @@ class dataList{
     Coffee(name: "lab lab cofe 6", image: "assets/images/6.png", price: 173.6),
     Coffee(name: "lab lab cofe 7", image: "assets/images/7.png", price: 143.3),
     Coffee(name: "lab lab cofe 8", image: "assets/images/8.png", price:52.1),
-    Coffee(name: "lab lab cofe 9", image: "assets/images/9.png", price: 19.7),
+    Coffee(name: "lab lab ba polo cofe 9", image: "assets/images/9.png", price: 19.7),
     Coffee(name: "lab lab cofe 10", image: "assets/images/10.png", price: 47.2),
     Coffee(name: "lab lab cafe 11", image: "assets/images/11.png", price: 16.3),
     Coffee(name: "lab lab cafe 12", image: "assets/images/12.png", price: 12.7),

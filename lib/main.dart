@@ -1,4 +1,5 @@
-import 'package:coffee_shop/screen/coffe_concept_list/coffe_concept_list_page.dart';
+import 'package:coffee_shop/screen/coffe_concept/coffe_concept_page.dart';
+import 'package:coffee_shop/screen/coffe_list/coffe_list_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -26,7 +27,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const CoffeConceptList(),
+      home:  CoffeeConceptHome(),
     );
   }
 }
